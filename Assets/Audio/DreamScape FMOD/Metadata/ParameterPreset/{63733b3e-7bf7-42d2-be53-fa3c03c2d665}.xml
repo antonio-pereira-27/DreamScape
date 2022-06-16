@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{63733b3e-7bf7-42d2-be53-fa3c03c2d665}">
+		<property name="name">
+			<value>Tipo de Passos</value>
+		</property>
+		<relationship name="folder">
+			<destination>{2ec58e2f-53ef-480a-bf25-b4c090509b82}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{77004e40-c7b6-44f5-bc43-41bc0c2e2c7c}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{77004e40-c7b6-44f5-bc43-41bc0c2e2c7c}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

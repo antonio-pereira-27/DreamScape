@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{a0a03185-a27d-4272-8a4d-878b31b290d0}">
+		<property name="assetPath">
+			<value>fogo.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.4889795918367348</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8865090f-8290-41e2-bba7-6f3e9db6d2b7}</destination>
+		</relationship>
+	</object>
+</objects>

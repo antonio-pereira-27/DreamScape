@@ -1,0 +1,641 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8171229157416419025
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3562e82f3196834ab544accb2f2f64f, type: 3}
+  m_Name: event:/BGM/Forest
+  m_EditorClassIdentifier: 
+  Path: event:/BGM/Forest
+  Guid:
+    Data1: 1673377715
+    Data2: 1219432504
+    Data3: 137931683
+    Data4: -160420122
+  Banks:
+  - {fileID: -4044263018198231322}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: -28767136274996912}
+  - {fileID: 1962509468426384165}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 156055
+--- !u!114 &-7905624485595969115
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3562e82f3196834ab544accb2f2f64f, type: 3}
+  m_Name: event:/SFX/Porta Ranger
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Porta Ranger
+  Guid:
+    Data1: -1563859827
+    Data2: 1240615457
+    Data3: 602258610
+    Data4: 311190684
+  Banks:
+  - {fileID: -4044263018198231322}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 3160
+--- !u!114 &-7203041985319084451
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3562e82f3196834ab544accb2f2f64f, type: 3}
+  m_Name: event:/SFX/Voicelines/Nao Tenho Ataque
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Voicelines/Nao Tenho Ataque
+  Guid:
+    Data1: 861034526
+    Data2: 1268876154
+    Data3: -1227052387
+    Data4: 1276869945
+  Banks:
+  - {fileID: -4044263018198231322}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 4493
+--- !u!114 &-6898559388297194354
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3562e82f3196834ab544accb2f2f64f, type: 3}
+  m_Name: event:/SFX/Voicelines/Onde Estas Pai
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Voicelines/Onde Estas Pai
+  Guid:
+    Data1: -962889574
+    Data2: 1186362170
+    Data3: -1249994827
+    Data4: -2046375885
+  Banks:
+  - {fileID: -4044263018198231322}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 4493
+--- !u!114 &-5338743858858120217
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3562e82f3196834ab544accb2f2f64f, type: 3}
+  m_Name: event:/SFX/Voicelines/Encontrar Casa
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Voicelines/Encontrar Casa
+  Guid:
+    Data1: -431081646
+    Data2: 1211052502
+    Data3: 799217303
+    Data4: 781978197
+  Banks:
+  - {fileID: -4044263018198231322}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 4493
+--- !u!114 &-5053876029091533510
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3562e82f3196834ab544accb2f2f64f, type: 3}
+  m_Name: event:/SFX/Voicelines/Tenho de Encontrar o Meu Pai
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Voicelines/Tenho de Encontrar o Meu Pai
+  Guid:
+    Data1: -1897891006
+    Data2: 1225585785
+    Data3: 741568407
+    Data4: -643915111
+  Banks:
+  - {fileID: -4044263018198231322}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 3000
+--- !u!114 &-4785269362955517596
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3562e82f3196834ab544accb2f2f64f, type: 3}
+  m_Name: event:/SFX/UI/Click Botao
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/UI/Click Botao
+  Guid:
+    Data1: 1990788785
+    Data2: 1151867014
+    Data3: -602698089
+    Data4: 479688394
+  Banks:
+  - {fileID: -4044263018198231322}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1760
+--- !u!114 &-4404491748999010425
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3562e82f3196834ab544accb2f2f64f, type: 3}
+  m_Name: event:/SFX/Ataques/Agua
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Ataques/Agua
+  Guid:
+    Data1: -1549026970
+    Data2: 1179226377
+    Data3: 600521111
+    Data4: 984486015
+  Banks:
+  - {fileID: -4044263018198231322}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1906
+--- !u!114 &-4044263018198231322
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83b5f3f9fdf3e8645a8d377b467d830e, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/Audio/DreamScape FMOD/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 637897620060000000
+  FileSizes:
+  - Name: Desktop
+    Value: 10551744
+  Exists: 1
+--- !u!114 &-3245991347794659425
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e50f73ba0343e7a41ada73cac356edf3, type: 3}
+  m_Name: parameter:/Passos Boneca/Tipo de Passos
+  m_EditorClassIdentifier: 
+  Name: Tipo de Passos
+  StudioPath: 
+  Min: 0
+  Max: 2
+  Default: 0
+  ID:
+    data1: 3248086815
+    data2: 1087834652
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-2871255607351480885
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3562e82f3196834ab544accb2f2f64f, type: 3}
+  m_Name: event:/SFX/Ataques/Terra
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Ataques/Terra
+  Guid:
+    Data1: -659777823
+    Data2: 1182185740
+    Data3: -1522033744
+    Data4: -537177163
+  Banks:
+  - {fileID: -4044263018198231322}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2533
+--- !u!114 &-2848025087648715546
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e50f73ba0343e7a41ada73cac356edf3, type: 3}
+  m_Name: parameter:/Main Menu/Parameter 1
+  m_EditorClassIdentifier: 
+  Name: Parameter 1
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3854269208
+    data2: 3010214084
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-528380893841028526
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3562e82f3196834ab544accb2f2f64f, type: 3}
+  m_Name: event:/SFX/Ataques/Eletrecidade
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Ataques/Eletrecidade
+  Guid:
+    Data1: 323723654
+    Data2: 1192353828
+    Data3: 314999169
+    Data4: -1675431796
+  Banks:
+  - {fileID: -4044263018198231322}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 397
+--- !u!114 &-28767136274996912
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e50f73ba0343e7a41ada73cac356edf3, type: 3}
+  m_Name: parameter:/Forest/Danger
+  m_EditorClassIdentifier: 
+  Name: Danger
+  StudioPath: 
+  Min: 0
+  Max: 100
+  Default: 0
+  ID:
+    data1: 868443709
+    data2: 3455866329
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8d5892abe7e0e94f9122e06c0dfc7ff, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: 6294155339837046103}
+  - {fileID: -4044263018198231322}
+  EditorEvents:
+  - {fileID: -7203041985319084451}
+  - {fileID: 3546644854202314392}
+  - {fileID: -5053876029091533510}
+  - {fileID: 1253902915695932830}
+  - {fileID: -5338743858858120217}
+  - {fileID: -4404491748999010425}
+  - {fileID: -528380893841028526}
+  - {fileID: -7905624485595969115}
+  - {fileID: -6898559388297194354}
+  - {fileID: 6020207109449372172}
+  - {fileID: -4785269362955517596}
+  - {fileID: -8171229157416419025}
+  - {fileID: 2024906085276197018}
+  - {fileID: 7434128135444712835}
+  - {fileID: -2871255607351480885}
+  - {fileID: 3402115824624567480}
+  - {fileID: 7374833492313426254}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: -4044263018198231322}
+  StringsBanks:
+  - {fileID: 6294155339837046103}
+  cacheTime: 637897620060000000
+  cacheVersion: 10
+--- !u!114 &1253902915695932830
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3562e82f3196834ab544accb2f2f64f, type: 3}
+  m_Name: event:/SFX/Passos Boneca
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Passos Boneca
+  Guid:
+    Data1: 560012099
+    Data2: 1153071624
+    Data3: -1799532664
+    Data4: 2045311227
+  Banks:
+  - {fileID: -4044263018198231322}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -3245991347794659425}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 757
+--- !u!114 &1962509468426384165
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e50f73ba0343e7a41ada73cac356edf3, type: 3}
+  m_Name: parameter:/Forest/Vida
+  m_EditorClassIdentifier: 
+  Name: Vida
+  StudioPath: 
+  Min: 0
+  Max: 100
+  Default: 100
+  ID:
+    data1: 914190607
+    data2: 1194902415
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &2024906085276197018
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3562e82f3196834ab544accb2f2f64f, type: 3}
+  m_Name: event:/SFX/UI/Hover Botao
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/UI/Hover Botao
+  Guid:
+    Data1: 1932735180
+    Data2: 1237056288
+    Data3: -1540647807
+    Data4: -1566801711
+  Banks:
+  - {fileID: -4044263018198231322}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1906
+--- !u!114 &3402115824624567480
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3562e82f3196834ab544accb2f2f64f, type: 3}
+  m_Name: event:/SFX/Voicelines/Outro Botao
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Voicelines/Outro Botao
+  Guid:
+    Data1: -221583385
+    Data2: 1251683072
+    Data3: 1300689332
+    Data4: -265913531
+  Banks:
+  - {fileID: -4044263018198231322}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 4493
+--- !u!114 &3546644854202314392
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3562e82f3196834ab544accb2f2f64f, type: 3}
+  m_Name: event:/BGM/Main Menu
+  m_EditorClassIdentifier: 
+  Path: event:/BGM/Main Menu
+  Guid:
+    Data1: 1678912061
+    Data2: 1342123569
+    Data3: 719745467
+    Data4: -464456817
+  Banks:
+  - {fileID: -4044263018198231322}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: -2848025087648715546}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 35056
+--- !u!114 &6020207109449372172
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3562e82f3196834ab544accb2f2f64f, type: 3}
+  m_Name: event:/SFX/Voicelines/Olha um Botao
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Voicelines/Olha um Botao
+  Guid:
+    Data1: 259499943
+    Data2: 1077837986
+    Data3: 2103050916
+    Data4: -1681603909
+  Banks:
+  - {fileID: -4044263018198231322}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 4493
+--- !u!114 &6294155339837046103
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83b5f3f9fdf3e8645a8d377b467d830e, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/Audio/DreamScape FMOD/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 637897620060000000
+  FileSizes:
+  - Name: Desktop
+    Value: 2056
+  Exists: 1
+--- !u!114 &7374833492313426254
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3562e82f3196834ab544accb2f2f64f, type: 3}
+  m_Name: event:/SFX/Ataques/Fogo
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Ataques/Fogo
+  Guid:
+    Data1: 628308464
+    Data2: 1211122671
+    Data3: 1293665208
+    Data4: -1071480769
+  Banks:
+  - {fileID: -4044263018198231322}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1488
+--- !u!114 &7434128135444712835
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3562e82f3196834ab544accb2f2f64f, type: 3}
+  m_Name: event:/SFX/Voicelines/Pode ser Util
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Voicelines/Pode ser Util
+  Guid:
+    Data1: 741558483
+    Data2: 1271966120
+    Data3: 1153776275
+    Data4: -913501987
+  Banks:
+  - {fileID: -4044263018198231322}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 4493

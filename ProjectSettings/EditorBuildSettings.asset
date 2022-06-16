@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartGame.unity
+    guid: aa8725646f2aea445aab6860e1650672
+  - enabled: 1
+    path: Assets/Scenes/CampingMap.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Hallway.unity
+    guid: d08c8022760b9c14ebbec5100823f704
+  - enabled: 1
+    path: Assets/Scenes/Kitchen.unity
+    guid: 68497f78626811b4cae2b887c7812895
+  - enabled: 1
+    path: Assets/Scenes/LivingRoom.unity
+    guid: 297f7a76210bb9a4d916dc6ba2802366
+  - enabled: 1
+    path: Assets/Scenes/DiningRoom.unity
+    guid: fbe27c97ba5985440baa752adc309449
+  - enabled: 1
+    path: Assets/Scenes/BigBathroom.unity
+    guid: 90b0fa90b75e702469a16cb068b89a19
+  - enabled: 0
+    path: Assets/Scenes/FirstRoom.unity
+    guid: 417c150fc8e271e4c995a0498e5ef508
+  - enabled: 1
+    path: Assets/Scenes/Study.unity
+    guid: ae8dab80ffff90646b68cf25af6b34a1
+  - enabled: 1
+    path: Assets/Scenes/Bedroom.unity
+    guid: 2d511db39c503b3419767607994d166a
+  - enabled: 1
+    path: Assets/Scenes/SmallBathroom.unity
+    guid: 59dbac0db71b2b241ab5ddd1b03bf14c
+  - enabled: 1
+    path: Assets/Cutscenes/Cutscene1.unity
+    guid: 503082ca38de74745baa0861d2cac90d
+  - enabled: 1
+    path: Assets/Cutscenes/Cutscene2.unity
+    guid: e8ede26de3d72a749b9d988d83f8f4b0
+  - enabled: 1
+    path: Assets/Cutscenes/Cutscene3.unity
+    guid: 2da22cfc8ee11394cb3f4efe86cd1faa
+  - enabled: 1
+    path: Assets/Cutscenes/Cutscene4.unity
+    guid: 98d756137de271e4d84323ed89a4dbb3
+  - enabled: 1
+    path: Assets/Cutscenes/Cutscene5.unity
+    guid: a68e33aa30b3fc146986bc1fa4a9580a
+  m_configObjects: {}
